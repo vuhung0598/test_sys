@@ -6,6 +6,7 @@ int main(){
   cout<<"lalala 1"<<endl;
   int m=0; int n=0;
   cin>>m; cin>>n;
-  cout<<m+n;
+  
+  cout<<m*n<<endl;
   return 0;
 }
