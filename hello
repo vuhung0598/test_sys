@@ -8,5 +8,6 @@ int main(){
   cin>>m; cin>>n;
   
   cout<<m*n<<endl;
+  fbdbfd
   return 0;
 }
